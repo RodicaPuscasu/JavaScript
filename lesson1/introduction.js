@@ -1,30 +1,22 @@
-console.log("Alright! Alright! Alright!");
+console.log("Hello world!");
 
 const age = 25; // Number
-const name = "Rodica"; // String
-const surname = 'Puscasu';
+const name = "Cristi"; // String
+const surname = "Socaci";
 const fullName = `${name} ${surname}`;
-console.log(fullName);
-const isFemale = true; // boolean
+const isMale = true; // boolean
 
-const rodica = {
-    name: "Rodica",
-    surname: "Puscasu"
-
-}
-console.log(rodica.name);
-
-const ageOfUniverseInBillions = 1.8; //not sure
+const ageOfUniverseInBillions = 1.8; // not sure about this
 
 let myAge;
 console.log(myAge);
 
-// alert ("Are you sure?")
+// alert("Are you sure?");
 
 // const areYouSure = confirm("Are you sure?");
-// console.log(areYouSure)
+
+// console.log(areYouSure);
 
 // const review = prompt("Please leave a review");
-// console.log(review)
 
-
+// console.log(review);
